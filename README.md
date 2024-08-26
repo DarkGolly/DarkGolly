@@ -4,7 +4,7 @@
 
 
 ## 🛠 Technical Stack
-*   Java/Python/Ruby языки
+*   Java/Python/Ruby/C++/C# языки
 *   MySQL, PostgreSQL, SqLite базы данных
 *   Spring, Flask, Ruby On Rails фреймворки
 *   Gradle, Maven сборщики
