@@ -12,6 +12,7 @@
 ### Мои проекты
 
 *   [Чат клиент/чат сервер](https://github.com/DarkGolly/local_chat_spring) - Это чат сервер на spring с использованием STOMP протокола, и JavaFX weaver клиент на Spring.
+*   [REST-API приложение](https://github.com/DarkGolly/rest-api_task) - Приложение предоставляющее API пользователей. Присутствует система аутентификации и авторизации пользователей по JWT.
 *   [Дипломный проект бакалавра](https://github.com/DarkGolly/vkr) - Проект на Flask по отображению координат судов на карте в реальном времени использую передачу данных по WebSocket.
 *   [Корпоротивный чат](https://github.com/DarkGolly/corpChat) - Чат написанный на Java и с JavaFX фреймворком. 
 *   [Онлайн магазин](https://github.com/DarkGolly/online_shop) - Онлайн магазин написанный на JS Express с использованием REST API
